@@ -224,7 +224,9 @@ jobs:
           meal_days \
           profiles \
           basal_lock \
-          negative_insulin 
+          negative_insulin \
+          remote window
+          
           # the final customization listed above CANNOT have a continuation character
           # more customizations can be pasted after this line
           # Fox in the Loop House Food Emoji update. Edit LoopKit: LoopKitUI\CarbKit\FoodEmojiDataSource.swift
